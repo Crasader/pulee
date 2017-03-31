@@ -1,0 +1,24 @@
+dependencies: \
+  /tmp/IkasGame/cocos2d/cocos/editor-support/cocostudio/CocoLoader.cpp \
+  /tmp/IkasGame/cocos2d/build/../cocos/editor-support/cocostudio/CocoLoader.h \
+  /tmp/IkasGame/cocos2d/build/../external/json/document-wrapper.h \
+  /tmp/IkasGame/cocos2d/build/../external/json/rapidjson.h \
+  /tmp/IkasGame/cocos2d/build/../external/json/document.h \
+  /tmp/IkasGame/cocos2d/build/../external/json/reader.h \
+  /tmp/IkasGame/cocos2d/build/../external/json/allocators.h \
+  /tmp/IkasGame/cocos2d/build/../external/json/stream.h \
+  /tmp/IkasGame/cocos2d/build/../external/json/encodings.h \
+  /tmp/IkasGame/cocos2d/build/../external/json/encodedstream.h \
+  /tmp/IkasGame/cocos2d/build/../external/json/memorystream.h \
+  /tmp/IkasGame/cocos2d/build/../external/json/internal/meta.h \
+  /tmp/IkasGame/cocos2d/build/../external/json/internal/stack.h \
+  /tmp/IkasGame/cocos2d/build/../external/json/internal/swap.h \
+  /tmp/IkasGame/cocos2d/build/../external/json/internal/strtod.h \
+  /tmp/IkasGame/cocos2d/build/../external/json/internal/ieee754.h \
+  /tmp/IkasGame/cocos2d/build/../external/json/internal/biginteger.h \
+  /tmp/IkasGame/cocos2d/build/../external/json/internal/diyfp.h \
+  /tmp/IkasGame/cocos2d/build/../external/json/internal/pow10.h \
+  /tmp/IkasGame/cocos2d/build/../external/json/error/error.h \
+  /tmp/IkasGame/cocos2d/build/../external/json/internal/strfunc.h \
+  /tmp/IkasGame/cocos2d/build/../external/json/internal/../stream.h \
+  /tmp/IkasGame/cocos2d/build/../cocos/editor-support/cocostudio/CocosStudioExport.h

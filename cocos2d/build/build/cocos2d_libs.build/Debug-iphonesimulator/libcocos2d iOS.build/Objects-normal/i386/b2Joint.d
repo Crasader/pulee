@@ -1,0 +1,28 @@
+dependencies: \
+  /tmp/IkasGame/cocos2d/external/Box2D/Dynamics/Joints/b2Joint.cpp \
+  /tmp/IkasGame/cocos2d/build/../external/Box2D/Dynamics/Joints/b2Joint.h \
+  /tmp/IkasGame/cocos2d/build/../external/Box2D/Common/b2Math.h \
+  /tmp/IkasGame/cocos2d/build/../external/Box2D/Common/b2Settings.h \
+  /tmp/IkasGame/cocos2d/build/../external/Box2D/Dynamics/Joints/b2DistanceJoint.h \
+  /tmp/IkasGame/cocos2d/build/../external/Box2D/Dynamics/Joints/b2WheelJoint.h \
+  /tmp/IkasGame/cocos2d/build/../external/Box2D/Dynamics/Joints/b2MouseJoint.h \
+  /tmp/IkasGame/cocos2d/build/../external/Box2D/Dynamics/Joints/b2RevoluteJoint.h \
+  /tmp/IkasGame/cocos2d/build/../external/Box2D/Dynamics/Joints/b2PrismaticJoint.h \
+  /tmp/IkasGame/cocos2d/build/../external/Box2D/Dynamics/Joints/b2PulleyJoint.h \
+  /tmp/IkasGame/cocos2d/build/../external/Box2D/Dynamics/Joints/b2GearJoint.h \
+  /tmp/IkasGame/cocos2d/build/../external/Box2D/Dynamics/Joints/b2WeldJoint.h \
+  /tmp/IkasGame/cocos2d/build/../external/Box2D/Dynamics/Joints/b2FrictionJoint.h \
+  /tmp/IkasGame/cocos2d/build/../external/Box2D/Dynamics/Joints/b2RopeJoint.h \
+  /tmp/IkasGame/cocos2d/build/../external/Box2D/Dynamics/Joints/b2MotorJoint.h \
+  /tmp/IkasGame/cocos2d/build/../external/Box2D/Dynamics/b2Body.h \
+  /tmp/IkasGame/cocos2d/build/../external/Box2D/Collision/Shapes/b2Shape.h \
+  /tmp/IkasGame/cocos2d/build/../external/Box2D/Common/b2BlockAllocator.h \
+  /tmp/IkasGame/cocos2d/build/../external/Box2D/Collision/b2Collision.h \
+  /tmp/IkasGame/cocos2d/build/../external/Box2D/Dynamics/b2World.h \
+  /tmp/IkasGame/cocos2d/build/../external/Box2D/Common/b2StackAllocator.h \
+  /tmp/IkasGame/cocos2d/build/../external/Box2D/Dynamics/b2ContactManager.h \
+  /tmp/IkasGame/cocos2d/build/../external/Box2D/Collision/b2BroadPhase.h \
+  /tmp/IkasGame/cocos2d/build/../external/Box2D/Collision/b2DynamicTree.h \
+  /tmp/IkasGame/cocos2d/build/../external/Box2D/Common/b2GrowableStack.h \
+  /tmp/IkasGame/cocos2d/build/../external/Box2D/Dynamics/b2WorldCallbacks.h \
+  /tmp/IkasGame/cocos2d/build/../external/Box2D/Dynamics/b2TimeStep.h

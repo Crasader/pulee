@@ -1,0 +1,26 @@
+# Android SDK
+export ANDROID_SDK_ROOT=~/Library/Android/sdk
+export PATH=$PATH:$ANDROID_SDK_ROOT
+
+#### No necesarios actualmente ####
+export SDK_PLATFORM_TOOLS=~/Library/Android/sdk/platform-tools
+export PATH=$PATH:$SDK_PLATFORM_TOOLS
+export SDK_TOOLS=~/Library/Android/sdk/tools
+export PATH=$PATH:$SDK_TOOLS
+###################################
+
+# Android NDK (For Cocos2d-x)
+export NDK_ROOT=~/Documents/android-ndk-r13b
+export PATH=$PATH:$NDK_ROOT
+
+# ANT (For Cocos2d-x) - Search path with 'where ant'
+export ANT_ROOT=/usr/local/Cellar/ant/1.9.5/libexec/bin
+export PATH=$PATH:$ANT_ROOT
+
+# Cocos2dx Root Console
+export COCOS_CONSOLE_ROOT=/Users/segarcia/Documents/cocos2d-x-3.14/tools/cocos2d-console/bin
+export PATH=$COCOS_CONSOLE_ROOT:$PATH
+
+# Cocos2d-x Root Templates
+export COCOS_CONSOLE_ROOT=/Users/segarcia/Documents/cocos2d-x-3.14/tools/cocos2d-console/bin
+export PATH=$COCOS_TEMPLATES_ROOT:$PATH

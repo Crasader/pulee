@@ -1,0 +1,23 @@
+dependencies: \
+  /tmp/IkasGame/cocos2d/external/bullet/BulletMultiThreaded/SpuSampleTaskProcess.cpp \
+  /tmp/IkasGame/cocos2d/external/bullet/BulletMultiThreaded/SpuSampleTaskProcess.h \
+  /tmp/IkasGame/cocos2d/external/bullet/BulletMultiThreaded/PlatformDefinitions.h \
+  /tmp/IkasGame/cocos2d/build/../external/bullet/LinearMath/btScalar.h \
+  /tmp/IkasGame/cocos2d/build/../external/bullet/LinearMath/btMinMax.h \
+  /tmp/IkasGame/cocos2d/build/../external/bullet/vectormath/vmInclude.h \
+  /tmp/IkasGame/cocos2d/build/../external/bullet/vectormath/sse/vectormath_aos.h \
+  /tmp/IkasGame/cocos2d/build/../external/bullet/vectormath/sse/vecidx_aos.h \
+  /tmp/IkasGame/cocos2d/build/../external/bullet/vectormath/sse/floatInVec.h \
+  /tmp/IkasGame/cocos2d/build/../external/bullet/vectormath/sse/boolInVec.h \
+  /tmp/IkasGame/cocos2d/build/../external/bullet/vectormath/sse/vec_aos.h \
+  /tmp/IkasGame/cocos2d/build/../external/bullet/vectormath/sse/quat_aos.h \
+  /tmp/IkasGame/cocos2d/build/../external/bullet/vectormath/sse/mat_aos.h \
+  /tmp/IkasGame/cocos2d/external/bullet/BulletMultiThreaded/PpuAddressSpace.h \
+  /tmp/IkasGame/cocos2d/build/../external/bullet/LinearMath/btAlignedObjectArray.h \
+  /tmp/IkasGame/cocos2d/build/../external/bullet/LinearMath/btAlignedAllocator.h \
+  /tmp/IkasGame/cocos2d/external/bullet/BulletMultiThreaded/SpuSampleTask/SpuSampleTask.h \
+  /tmp/IkasGame/cocos2d/build/../external/bullet/LinearMath/btVector3.h \
+  /tmp/IkasGame/cocos2d/build/../external/bullet/LinearMath/btMatrix3x3.h \
+  /tmp/IkasGame/cocos2d/build/../external/bullet/LinearMath/btQuaternion.h \
+  /tmp/IkasGame/cocos2d/build/../external/bullet/LinearMath/btQuadWord.h \
+  /tmp/IkasGame/cocos2d/external/bullet/BulletMultiThreaded/btThreadSupportInterface.h
